@@ -1,0 +1,33 @@
+label{
+  padding-top: 7px;
+  font-size: 14px;
+  font-weight: 100;
+}
+.form-control{
+  font-size: 14px;
+  font-weight: 100;
+}
+
+.jumbotron{
+  background-color: white;
+}
+
+.content{
+  margin-top: 80px;
+}
+
+h4{
+  font-weight: 300;
+}
+p{
+  font-weight: 100;
+}
+
+.beers{
+  padding-top: 70px;
+}
+
+.list-group{
+  overflow: auto;
+  height: 75vh;
+}

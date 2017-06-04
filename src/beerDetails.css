@@ -1,0 +1,13 @@
+.beerdetails{
+  padding: 7px;
+  height: 80vh;
+  overflow: auto;
+  text-align: left;
+}
+.beerdetails > img{
+  width: auto;
+  height: 370px;
+}
+.detailspace{
+  margin-top: 15px;
+}

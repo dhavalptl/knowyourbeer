@@ -1,0 +1,10 @@
+.thumbnail{
+  padding: 7px;
+  height: 320px;
+  overflow: auto;
+  text-align: center;
+}
+.singlebeer > img {
+  width: auto;
+  height: 120px;
+}
